@@ -1,0 +1,21 @@
+{
+  "name": "mockeip712",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "eip-712": "^1.0.0",
+    "ethers": "^5.6.9",
+    "ethers-eip712": "^0.2.0",
+    "nobel": "^0.3.0",
+    "web3": "^1.7.4"
+  }
+}
